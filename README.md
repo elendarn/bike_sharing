@@ -12,4 +12,4 @@ This project aims to build and train a regression model using the Capital Bike S
 
 5. RMSLE Calculation: Evaluate the performance of the regression model by calculating the Root Mean Squared Logarithmic Error (RMSLE) for both the training and validation sets. This metric provides a measure of the model's accuracy in predicting the demand for bicycle rentals.
 
-Through this project, we aim to provide insights and a reliable model that Capital Bikeshare can use to estimate the number of bicycles needed at any given time based on weather conditions. The project code and results will be shared on GitHub, enabling collaboration and knowledge sharing with the data science community.
+Through this project, I aim to provide insights and a reliable model that Capital Bikeshare can use to estimate the number of bicycles needed at any given time based on weather conditions. The project code and results will be shared on GitHub, enabling collaboration and knowledge sharing with the data science community.
